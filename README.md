@@ -21,7 +21,7 @@ Notes:
 
 3. In the Installation User require Activation Key. Ask for Techextension Team for it. They will provide you.
 
-4. [ Installation Guide ] ( http://www.techextension.com/support/crm/sugarcrm/asterisk/how-to-install-sugar-crm-asterisk-integration-sugarcrm-modules.php )
+4. [ Installation Guide ] ( http://www.techextension.com/how-to-install-sugar-crm-asterisk-integration-sugarcrm-modules.php )
 
 5. Fore More Details [ Ask us ] ( http://www.techextension.com/contact.php )
 
