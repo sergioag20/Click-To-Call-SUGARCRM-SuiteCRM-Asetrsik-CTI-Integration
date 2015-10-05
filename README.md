@@ -1,4 +1,4 @@
-Download It From Here: [Download Click to Call SUGARCRM Modules](https://www.techextension.com/sugarcrm-click-to-call-integration.php)
+Download It From Here: [Download Click to Call SUGARCRM Modules](http://www.techextension.com/sugarcrm-click-to-call-integration)
 Support@techextension.com
 Skype: tech.extension
 
